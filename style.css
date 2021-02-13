@@ -1,0 +1,200 @@
+* {
+  align-items: center;
+  background: #19a1ad;
+}
+
+.profile {
+  position: absolute;
+  width: 92px;
+  height: 92px;
+  left: 618px;
+  top: 264px;
+
+  background: url(image-victor.jpg);
+  border-radius: 100px;
+}
+
+.top {
+  position: fixed;
+  width: 978px;
+  height: 978px;
+  left: -338px;
+  top: -618px;
+}
+
+.bottom {
+  position: fixed;
+  width: 978px;
+  height: 978px;
+  left: 664px;
+  top: 360px;
+}
+
+.card {
+  position: absolute;
+  width: 378px;
+  height: 396px;
+  left: 475px;
+  top: 158px;
+
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+.line {
+  position: absolute;
+  width: 378px;
+  height: 1px;
+  left: 475px;
+  top: 461px;
+
+  background: #c4c4c4;
+}
+
+.cardimg {
+  position: fixed;
+  width: 378px;
+  height: 140px;
+  left: 475px;
+  top: 158px;
+
+  border-radius: 15px 15px 0px 0px;
+}
+
+.decor {
+  position: absolute;
+  border-radius: 50%;
+  width: 102px;
+  height: 102px;
+  left: 613px;
+  top: 259px;
+
+  background: #ffffff;
+}
+
+.name {
+  position: absolute;
+  left: 44.25%;
+  right: 45.16%;
+  top: 53.53%;
+  bottom: 45.42%;
+
+  font-family: Kumbh Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #000000;
+  background: none;
+}
+
+.age {
+  position: absolute;
+  left: 52.2%;
+  right: 41.81%;
+  top: 53.53%;
+  bottom: 45.42%;
+
+  font-family: Kumbh Sans;
+  font-style: normal;
+  font-weight: 00;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #747474;
+  background: none;
+}
+
+.location {
+  /* London */
+
+  position: absolute;
+  left: 47.2%;
+  right: 46.25%;
+  top: 57.69%;
+  bottom: 41.94%;
+
+  font-family: kumbh sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #747474;
+  background: none;
+}
+
+#followersno {
+  position: absolute;
+  left: 38.31%;
+  right: 56.88%;
+  top: 68.83%;
+  bottom: 29.17%;
+}
+
+#followers {
+  position: absolute;
+  left: 37.31%;
+  right: 55.23%;
+  top: 73.14%;
+  bottom: 27.5%;
+}
+
+#photono {
+  position: absolute;
+  left: 56.11%;
+  right: 36.56%;
+  top: 68.83%;
+  bottom: 29.17%;
+}
+
+#photos {
+  position: absolute;
+  left: 56.11%;
+  right: 35.7%;
+  top: 73.14%;
+  bottom: 27.22%;
+}
+
+#likeno {
+  position: absolute;
+  left: 47.2%;
+  right: 45.86%;
+  top: 68.83%;
+  bottom: 29.03%;
+}
+
+#likes {
+  position: absolute;
+  left: 47.68%;
+  right: 47.41%;
+  top: 73.14%;
+  bottom: 27.5%;
+}
+
+.numbers {
+  font-family: Kumbh sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+
+  color: #000000;
+  background: none;
+}
+
+.what {
+  font-family: kumbh sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #747474;
+  background: none;
+}
